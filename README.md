@@ -1,27 +1,17 @@
-# Replace with your unique project name
+Colorvision project
 
 ## Description
 
 **version 1.0**
 
-Replace with a description of *what* your program does (not *how* it works)
+My project compares colors using their RGB values to determine if it would be difficult to differentiate such colors as a red-green color deficient/blind person.
 
 
 ## Developer
 
-Replace with your name
+Arjun Minhas
 
 ## Example
 
 To run the program, give the following commands:
-
-```
-g++ --std=c++11 *.cpp -o cvp
-./cvp
-```
-
-Here is an example of the program running:
-
-```
-Replace this with a copy-pasted example of the input/output of your program running.
-```
+When prompted enter 1 to compare colors, enter 2 for accessibility info, and 3 to quit the program.
